@@ -45,6 +45,11 @@
     font-weight:600;
 }
 
+.logo{
+    width: 23px;
+    height: 23px;
+}
+
 
 .cardPrincipal{
     height: 300px;
